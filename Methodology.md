@@ -57,6 +57,7 @@ and should ultimately be validated by the project's own data (i.e., a mixed
 record of good and bad outcomes among their 2017-2019 draft class) rather
 than treated as settled by an absence of press coverage. This is noted as an
 open item to revisit once Cardinals data is collected.
+
 ## Transition Window Definition
 
 The "post-rookie transition window" is defined as **years 5–7 of a player's career**.
