@@ -32,7 +32,7 @@ selection and the exact rules used are in `METHODOLOGY.md`.
 
 ## Tech Stack
 
-- **Airtable** — where the player and contract data actually gets built
+- [**Airtable**](https://airtable.com/invite/l?inviteId=invmEQyD3DefBzldd&inviteToken=aaa62090eb7a2627e19493eb344aa59c4f859d95b595028f75a8dcb088570daf&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts) — where the player and contract data actually gets built 
 - **SQLite / DB Browser for SQLite** — for querying and comparing across teams
 - **Excel** — used for cleaning and cross-checking data during collection
 
