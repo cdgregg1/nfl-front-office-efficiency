@@ -40,7 +40,7 @@ selection and the exact rules used are in `METHODOLOGY.md`.
 
 The full methodology — why these five teams, how the transition window is
 defined, the outcome categories, and how the data was collected and
-verified — is documented in [`METHODOLOGY.md`](./METHODOLOGY.md).
+verified — is documented in [`Methodology.md`](./Methodology.md).
 
 ## Findings
 
